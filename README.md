@@ -1,5 +1,5 @@
 # 03_03 Run scripts from the pipeline
-[![Build Status](http://ec2-18-209-52-204.compute-1.amazonaws.com/buildStatus/icon?job=pipeline-ch3-3-run-scripts)](http://ec2-18-209-52-204.compute-1.amazonaws.com/job/pipeline-ch3-3-run-scripts/)
+[![Build Status](http://ec2-18-209-52-204.compute-1.amazonaws.com/buildStatus/icon?job=pipeline-ch3-3-run-scripts)](http://ec2-18-209-52-204.compute-1.amazonaws.com/job/pipeline-ch3-3-run-scripts/) <br>
 <a href='http://ec2-18-209-52-204.compute-1.amazonaws.com/job/pipeline-ch3-3-run-scripts/'><img src='http://ec2-18-209-52-204.compute-1.amazonaws.com/buildStatus/icon?job=pipeline-ch3-3-run-scripts'></a>
 
 Pipelines can be used to call scripts that are stored in a repo along with a Jenkinsfile.
